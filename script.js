@@ -1,4 +1,4 @@
-const socket = io('https://YOUR-RENDER-URL.onrender.com');
+const socket = io('https://walkie-backend.onrender.com');
 
 let localStream;
 let peerConnection;
